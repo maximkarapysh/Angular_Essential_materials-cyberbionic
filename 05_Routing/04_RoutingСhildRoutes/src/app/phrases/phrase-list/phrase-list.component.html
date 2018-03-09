@@ -1,0 +1,13 @@
+<h2>Phrases</h2>
+
+<div class="divider">
+    <ul class="phrases">
+        <li *ngFor="let phrase of phrases"
+            (click)="onSelect(phrase)">
+            {{phrase.value}}
+        </li>
+    </ul>
+    <router-outlet></router-outlet>
+</div>
+
+
