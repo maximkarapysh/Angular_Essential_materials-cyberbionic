@@ -1,0 +1,30 @@
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP_Client\bin\04_JSONP_Client.dll.config
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP_Client\bin\04_JSONP_Client.dll
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP_Client\bin\04_JSONP_Client.pdb
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP_Client\obj\Debug\04_JSONP_Client.dll
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP_Client\obj\Debug\04_JSONP_Client.pdb
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP_Client\bin\04_JSONP_Client.dll.config
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP_Client\bin\04_JSONP_Client.dll
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP_Client\bin\04_JSONP_Client.pdb
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP_Client\obj\Debug\04_JSONP_Client.csprojResolveAssemblyReference.cache
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP_Client\obj\Debug\04_JSONP_Client.dll
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP_Client\obj\Debug\04_JSONP_Client.pdb
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP_Client\bin\04_JSONP_Client.dll.config
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP_Client\bin\04_JSONP_Client.dll
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP_Client\bin\04_JSONP_Client.pdb
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP_Client\obj\Debug\04_JSONP_Client.csprojResolveAssemblyReference.cache
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP_Client\obj\Debug\04_JSONP_Client.dll
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP_Client\obj\Debug\04_JSONP_Client.pdb
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP_Client\bin\04_JSONP_Client.dll.config
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP_Client\bin\04_JSONP_Client.dll
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP_Client\bin\04_JSONP_Client.pdb
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP_Client\obj\Debug\04_JSONP_Client.csprojResolveAssemblyReference.cache
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP_Client\obj\Debug\04_JSONP_Client.dll
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP_Client\obj\Debug\04_JSONP_Client.pdb
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP_Client\bin\04_JSONP_Client.dll.config
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP_Client\bin\04_JSONP_Client.dll
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP_Client\bin\04_JSONP_Client.pdb
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP_Client\obj\Debug\04_JSONP_Client.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP_Client\obj\Debug\04_JSONP_Client.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP_Client\obj\Debug\04_JSONP_Client.dll
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP_Client\obj\Debug\04_JSONP_Client.pdb

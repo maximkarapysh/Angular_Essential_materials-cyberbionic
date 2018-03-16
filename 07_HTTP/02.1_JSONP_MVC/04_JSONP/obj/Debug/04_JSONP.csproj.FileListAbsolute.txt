@@ -1,0 +1,90 @@
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\bin\04_JSONP.dll.config
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\bin\04_JSONP.dll
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\bin\04_JSONP.pdb
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\bin\System.Web.Helpers.dll
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\bin\System.Web.Mvc.dll
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\bin\System.Web.Razor.dll
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\bin\System.Web.Webpages.Deployment.dll
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\bin\System.Web.Webpages.dll
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\bin\System.Web.Webpages.Razor.dll
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\bin\System.Web.Razor.xml
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\bin\System.Web.Webpages.xml
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\bin\System.Web.Webpages.Deployment.xml
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\bin\System.Web.Webpages.Razor.xml
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\bin\System.Web.Helpers.xml
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\bin\System.Web.Mvc.xml
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\obj\Debug\04_JSONP.csprojResolveAssemblyReference.cache
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\obj\Debug\04_JSONP.dll
+D:\Lessons\_InDevelopment\JS Core - GlobalLogic\009 HTTP and AJAX\Samples\04_JSONP\04_JSONP\obj\Debug\04_JSONP.pdb
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP\bin\04_JSONP.dll.config
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP\bin\04_JSONP.dll
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP\bin\04_JSONP.pdb
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP\bin\System.Web.Helpers.dll
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP\bin\System.Web.Razor.dll
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP\bin\System.Web.Webpages.Deployment.dll
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP\bin\System.Web.Webpages.dll
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP\bin\System.Web.Webpages.Razor.dll
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP\bin\System.Web.Razor.xml
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP\bin\System.Web.Webpages.xml
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP\bin\System.Web.Webpages.Deployment.xml
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP\bin\System.Web.Webpages.Razor.xml
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP\bin\System.Web.Helpers.xml
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP\obj\Debug\04_JSONP.csprojResolveAssemblyReference.cache
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP\obj\Debug\04_JSONP.dll
+D:\Lessons\JS Ciklum\JavaScript Advanced\009 HTTP and AJAX\02_JSONP\04_JSONP\obj\Debug\04_JSONP.pdb
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP\bin\04_JSONP.dll.config
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP\bin\04_JSONP.dll
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP\bin\04_JSONP.pdb
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP\bin\System.Web.Helpers.dll
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP\bin\System.Web.Razor.dll
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP\bin\System.Web.Webpages.Deployment.dll
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP\bin\System.Web.Webpages.dll
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP\bin\System.Web.Webpages.Razor.dll
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP\bin\System.Web.Razor.xml
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP\bin\System.Web.Webpages.xml
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP\bin\System.Web.Webpages.Deployment.xml
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP\bin\System.Web.Webpages.Razor.xml
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP\bin\System.Web.Helpers.xml
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP\obj\Debug\04_JSONP.csprojResolveAssemblyReference.cache
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP\obj\Debug\04_JSONP.dll
+D:\Lessons\JavaScript in PulsarFour\Advanced\Урок 6. HTTP and AJAX\03_JSONP\04_JSONP\obj\Debug\04_JSONP.pdb
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\04_JSONP.dll.config
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\04_JSONP.dll
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\04_JSONP.pdb
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\Microsoft.Web.Infrastructure.dll
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Helpers.dll
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Mvc.dll
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Razor.dll
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Webpages.Deployment.dll
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Webpages.dll
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Webpages.Razor.dll
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Razor.xml
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Webpages.xml
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Webpages.Deployment.xml
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Webpages.Razor.xml
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Helpers.xml
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Mvc.xml
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\obj\Debug\04_JSONP.csprojResolveAssemblyReference.cache
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\obj\Debug\04_JSONP.dll
+D:\Lessons\_Development\Angular2 Essential\Lessons\07_HTTP\02.1_JSONP_MVC\04_JSONP\obj\Debug\04_JSONP.pdb
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\04_JSONP.dll.config
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\04_JSONP.dll
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\04_JSONP.pdb
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Helpers.dll
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Mvc.dll
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Razor.dll
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Webpages.dll
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Webpages.Razor.dll
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Razor.xml
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Webpages.xml
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Webpages.Razor.xml
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Helpers.xml
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\bin\System.Web.Mvc.xml
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\obj\Debug\04_JSONP.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\obj\Debug\04_JSONP.dll
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\obj\Debug\04_JSONP.pdb
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\obj\Debug\04_JSONP.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\angular2\07_HTTP\02.1_JSONP_MVC\04_JSONP\obj\Debug\04_JSONP.csproj.CopyComplete
