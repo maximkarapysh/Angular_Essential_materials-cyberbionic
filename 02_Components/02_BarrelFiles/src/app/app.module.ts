@@ -1,10 +1,10 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { RouterModule } from '@angular/router'; // модуль для маршрутизации
 
 import { AppComponent } from './app.component';
-import { ListsModule, routs } from './lists/index'; // использование barrel file
 
+import { ListsModule, routs } from './lists/index'
+import { RouterModule } from '@angular/router';
 
 @NgModule({
   declarations: [
@@ -12,8 +12,8 @@ import { ListsModule, routs } from './lists/index'; // использовани�
   ],
   imports: [
     BrowserModule,
-    RouterModule.forRoot(routs),
-    ListsModule  // испортируем модуль с List компонентами
+    ListsModule,
+    RouterModule.forRoot(routs)
   ],
   providers: [],
   bootstrap: [AppComponent]
