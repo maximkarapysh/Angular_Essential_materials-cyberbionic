@@ -1,6 +1,6 @@
 import { Injectable } from "@angular/core";
 import { CanDeactivate } from "@angular/router";
-import { Observable } from "rxjs/Observable";
+import { Observable } from "rxjs";
 
 // Интерфейс, который необходимо реализовать в компоненте, который может отменить перенаправления пользователя
 // в случае необходимости.

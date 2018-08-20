@@ -1,11 +1,8 @@
-import { Injectable } from "@angular/core";
 
-import { Observable } from "rxjs/Observable";
-
+import {of as observableOf,  Observable } from 'rxjs';
 // подключение необходимых методов для работы с Observable
-import "rxjs/add/observable/of";
-import "rxjs/add/operator/do";
-import "rxjs/add/operator/delay";
+import {tap, delay} from 'rxjs/operators';
+import { Injectable } from "@angular/core";
 
 @Injectable()
 export class AuthService {
@@ -15,14 +12,13 @@ export class AuthService {
     redirectUrl: string;
 
     login(login: string, password: string): Observable<boolean> {
-        return Observable   // создание Observable объекта
-            .of(true)       // добавление элементов в последовательность объекта
-            .delay(1000)    // задержка на 1 сек.
-            .do(val => {    // выполнение действия для каждого элемента в последовательности
+        return observableOf(true).pipe(       // добавление элементов в последовательность объекта
+            delay(1000),    // задержка на 1 сек.
+            tap(val => {    // выполнение действия для каждого элемента в последовательности
                 if (login == "admin" && password == "qwerty")
                     this.isLoggedIn = true;
                     return this.isLoggedIn;
-            });
+            }),);
     }
 
     logout(): void {
